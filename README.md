@@ -1,4 +1,4 @@
-# Piggy Banks
+# Leap Year
 The Leap Year program check the user input year if it a leap year or not. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus).
 
 ## Table of Contents
